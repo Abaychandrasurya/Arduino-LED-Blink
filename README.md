@@ -23,3 +23,7 @@ This project demonstrates a simple LED sequencing pattern using an Arduino board
 | LED 1         | 3           |
 | LED 2         | 4           |
 | LED 3         | 5           |
+
+## Circuit Diagram
+
+![Arduino LED Blink Project](./image1.png)
